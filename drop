@@ -1,3 +1,4 @@
+#!/bin/sh
 lscpu
 
 export DEBIAN_FRONTEND=noninteractive
